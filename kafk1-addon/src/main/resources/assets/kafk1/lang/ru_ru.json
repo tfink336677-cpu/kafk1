@@ -1,0 +1,11 @@
+{
+  "item.kafk1.kafk1_implant": "КАФК1",
+  "item.kafk1.kafk1_implant.tooltip1": "Имплант для ног",
+  "item.kafk1.kafk1_implant.tooltip2": "ПКМ — установить. Зажми пробел на 6 сек: присед, затем мощный прыжок",
+  "item.kafk1.kafk1_implant.tooltip3": "Приземление: 20 сердец урона в радиусе 6 блоков. Перезарядка 20 сек",
+  "message.kafk1.installed": "Имплант КАФК1 установлен",
+  "message.kafk1.removed": "Имплант КАФК1 удалён",
+  "message.kafk1.already": "КАФК1 уже установлен",
+  "message.kafk1.cooldown": "КАФК1 перезаряжается: %s с",
+  "message.kafk1.charging": "КАФК1 зарядка %s"
+}

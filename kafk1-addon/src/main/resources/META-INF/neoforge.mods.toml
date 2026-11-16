@@ -1,0 +1,35 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="MIT"
+
+[[mods]]
+modId="kafk1"
+version="1.0.0"
+displayName="KAFK1 Implant (Chromeware addon)"
+authors="You"
+description='''
+Implant KAFK1 for legs: hold space to charge for 6 seconds, then jump and smash the ground.
+Addon for Create: Chromeware 1.3.0.
+'''
+
+[[dependencies.kafk1]]
+modId="neoforge"
+type="required"
+versionRange="[21.1.0,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.kafk1]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1]"
+ordering="NONE"
+side="BOTH"
+
+# Chromeware необязателен для запуска, но загружаемся после него
+[[dependencies.kafk1]]
+modId="chromeware"
+type="optional"
+versionRange="[1.3.0,)"
+ordering="AFTER"
+side="BOTH"

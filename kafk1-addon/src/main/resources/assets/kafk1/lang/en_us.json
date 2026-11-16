@@ -1,0 +1,11 @@
+{
+  "item.kafk1.kafk1_implant": "KAFK1",
+  "item.kafk1.kafk1_implant.tooltip1": "Leg implant",
+  "item.kafk1.kafk1_implant.tooltip2": "Right-click to install. Hold space for 6s: crouch, then a mighty leap",
+  "item.kafk1.kafk1_implant.tooltip3": "Landing: 20 hearts of damage in 6 blocks. Cooldown 20s",
+  "message.kafk1.installed": "KAFK1 implant installed",
+  "message.kafk1.removed": "KAFK1 implant removed",
+  "message.kafk1.already": "KAFK1 is already installed",
+  "message.kafk1.cooldown": "KAFK1 recharging: %ss",
+  "message.kafk1.charging": "KAFK1 charging %s"
+}
